@@ -1,0 +1,1 @@
+This project focuses on analyzing customer churn in an e-commerce business using SQL. The objective is to understand customer behaviour, identify factors associated with customer churn, and generate meaningful insights that can help businesses improve customer retention
